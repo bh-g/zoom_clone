@@ -35,7 +35,6 @@ class JitsiMeetMethods {
           'welcomepage.enabled': false, // Disable the welcome page
           'meeting@room.join': true, // Join without waiting for others
           'meeting@moderator': true, // Make the user the moderator if needed
-          'meeting@password-protection': false
         },
       );
 
